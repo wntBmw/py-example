@@ -3,3 +3,4 @@ def hihihi(X: str) -> str:
   return X
 
 print(hihihi('Hi'))
+print(hihihi('Hi'))
