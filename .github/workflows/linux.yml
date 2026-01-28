@@ -1,8 +1,7 @@
 name: Run Python on Linux
 
-on:
+true:
   push:
-  pull_request:
 
 jobs:
   build:
